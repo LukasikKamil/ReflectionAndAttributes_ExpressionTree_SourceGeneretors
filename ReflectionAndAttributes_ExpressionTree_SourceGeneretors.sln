@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoad.Console", "Dyna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees", "ExpressionTrees\ExpressionTrees.csproj", "{1D70046A-F754-4442-93BF-E2009CA68636}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeApp", "GeneratingCodeApp\GeneratingCodeApp.csproj", "{A90F29EA-AB3E-4703-BFDE-2130CA8D8183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCodeLib", "GeneratingCodeLib\GeneratingCodeLib.csproj", "{779C8122-1C90-4F2B-B9D2-5C807E80B373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1D70046A-F754-4442-93BF-E2009CA68636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D70046A-F754-4442-93BF-E2009CA68636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D70046A-F754-4442-93BF-E2009CA68636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90F29EA-AB3E-4703-BFDE-2130CA8D8183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90F29EA-AB3E-4703-BFDE-2130CA8D8183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90F29EA-AB3E-4703-BFDE-2130CA8D8183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90F29EA-AB3E-4703-BFDE-2130CA8D8183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779C8122-1C90-4F2B-B9D2-5C807E80B373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779C8122-1C90-4F2B-B9D2-5C807E80B373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779C8122-1C90-4F2B-B9D2-5C807E80B373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779C8122-1C90-4F2B-B9D2-5C807E80B373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
